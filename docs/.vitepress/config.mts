@@ -48,7 +48,7 @@ export default defineConfig({
                         text: 'sxr',
                         items:
                         [
-                            { text: '博客', link: 'https://blog.jiuci.top/' },
+                            { text: '主页', link: 'https://jiuci.top/' },
                             { text: 'Email', link: 'mailto:13625126063@163.com' }
                         ]
                     },
