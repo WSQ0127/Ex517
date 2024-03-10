@@ -4,7 +4,7 @@ import timeline from "vitepress-markdown-timeline";
 export default defineConfig({
   title: 'Ex517', //站点标题
     description: 'Ex517',//mate标签description，多用于搜索引擎抓取摘要
-    base: "/Ex517/",
+    base: "",
     markdown: { 
         //行号显示
         lineNumbers: true, 
