@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: 快速开始
       link: /start
+    - theme: brand
+      text: 反馈
+      link: /feedback
 
 features:
   - icon: 🍃
