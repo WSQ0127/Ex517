@@ -77,7 +77,7 @@ export default defineConfig({
                 text: '加载脚本',
                 items:
                 [
-                    { text: 'Stylus 插件', link: '/tampermonkey' },
+                    { text: 'Stylus 插件', link: '/stylus' },
                     { text: 'Tampermonkey 插件', link: '/tampermonkey' },
                     { text: '浏览器 userscript', link: '/userscript' }
                 ]
